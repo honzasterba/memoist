@@ -13,14 +13,8 @@ But I love it, and so I plan to keep it alive.
 
 ## Installation
 
-```bash
-bundle add memoist3
-```
-
-or
-
 ```ruby
-gem 'memoist3'
+gem 'memoist3', require: 'memoist'
 ```
 
 ## Supported Rubies
