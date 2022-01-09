@@ -1,13 +1,34 @@
-Note: this is a fork of the original https://github.com/matthewrudy/memoist adapted for usage with Ruby 3.
+This is a fork of the original repo by [matthewrudy](https://github.com/matthewrudy/memoist) 
+adapted for usage with Ruby 3.
 
 # Memoist
 
+[![Gem Version](https://badge.fury.io/rb/memoist3.svg)](https://badge.fury.io/rb/memoist3)
 [![Build Status](https://github.com/honzasterba/memoist/workflows/ci/badge.svg)](https://github.com/honzasterba/memoist/actions)
 
 Memoist is an extraction of ActiveSupport::Memoizable.
 
 Since June 2011 ActiveSupport::Memoizable has been deprecated.
 But I love it, and so I plan to keep it alive.
+
+## Installation
+
+```bash
+bundle add memoist3
+```
+
+or
+
+```ruby
+gem 'memoist3'
+```
+
+## Supported Rubies
+
+This library supports
+
+ - MRI Ruby 2 (>= 2.7.2)
+ - MRI Ruby 3 (>= 3.0.0)
 
 ## Usage
 
