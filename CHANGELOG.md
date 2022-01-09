@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.0](https://github.com/honzasterba/memoist/tree/v0.16.2) (2022-01-09)
+
+[Full Changelog](https://github.com/matthewrudy/honzasterba/compare/v0.16.1...v1.0.0)
+
+- support for Ruby 3 kwargs
+
 ## [v0.16.2](https://github.com/matthewrudy/memoist/tree/v0.16.2) (2019-12-04)
 
 [Full Changelog](https://github.com/matthewrudy/memoist/compare/v0.16.1...v0.16.2)

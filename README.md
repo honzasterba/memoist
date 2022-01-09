@@ -1,6 +1,6 @@
 # Memoist
 
-[![Build Status](https://github.com/matthewrudy/memoist/workflows/ci/badge.svg)](https://github.com/matthewrudy/memoist/actions)
+[![Build Status](https://github.com/honzasterba/memoist/workflows/ci/badge.svg)](https://github.com/honzasterba/memoist/actions)
 
 Memoist is an extraction of ActiveSupport::Memoizable.
 
@@ -139,7 +139,7 @@ Everyone who contributed to it in the rails repository.
 
 # Contributing
 
-1. Fork it ( https://github.com/matthewrudy/memoist/fork )
+1. Fork it ( https://github.com/honzasterba/memoist/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
