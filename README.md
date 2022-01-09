@@ -1,3 +1,5 @@
+Note: this is a fork of the original https://github.com/matthewrudy/memoist adapted for usage with Ruby 3.
+
 # Memoist
 
 [![Build Status](https://github.com/honzasterba/memoist/workflows/ci/badge.svg)](https://github.com/honzasterba/memoist/actions)
@@ -5,8 +7,7 @@
 Memoist is an extraction of ActiveSupport::Memoizable.
 
 Since June 2011 ActiveSupport::Memoizable has been deprecated.
-But I love it,
-and so I plan to keep it alive.
+But I love it, and so I plan to keep it alive.
 
 ## Usage
 
